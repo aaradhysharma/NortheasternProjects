@@ -91,3 +91,4 @@ and filter=lfs diff=lfs merge=lfs -text
 also filter=lfs diff=lfs merge=lfs -text
 Model, filter=lfs diff=lfs merge=lfs -text
 [BOS-2-TR]/Project_5/DMDD_Orion filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
